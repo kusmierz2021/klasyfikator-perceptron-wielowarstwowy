@@ -8,4 +8,4 @@ trenujących perceptron i tworzy wykres dokładności dopasowania co 20 cykli tr
 pokazuje testowe zastosowanie wyuczonego modelu, wyświetlając obrazy, na podstawie których 
 określa jaka liczba jest na nich zaprezentowana.
 
-Szczegółowa dokumentacja znajduje się w pliku WSI_sprawozdanie_7.pdf
+Szczegółowa dokumentacja znajduje się w pliku WSI_7_sprawozdanie.pdf
